@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoderLife69
 - 👀 I’m interested in Coding,Watching movies,Listning to rap and lo-fi music.
 - 🌱 I’m currently learning JavaScript and son i'll start React.js
-- 📫 How to reach me on fb my profile => https://www.facebook.com/profile.php?id=100084028309262&mibextid=ZbWKwL
+- 📫 How to reach me on fb my profile => <a href="https://www.facebook.com/profile.php?id=100084028309262&mibextid=ZbWKwL">My Facebook profile</a>
 - 🌐 <a href="https://bikutexteditor.vercel.app/#">My TextEditor web app</a>
 
 <!---
